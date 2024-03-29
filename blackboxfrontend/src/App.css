@@ -1,0 +1,8 @@
+#light .main{
+  background-color:white;
+  color: #25242D;
+}
+#dark .main{
+  background-color:#25242D;
+  color: "white";
+}

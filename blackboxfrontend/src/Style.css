@@ -1,0 +1,12 @@
+[data-theme="light"]
+{
+    --bg-color:#ffff;
+    --text-color:black;
+    --heading-color:rgb(77, 73, 73);
+}
+[data-theme="dark"]
+{
+    --bg-color:#0b0a0a;
+    --text-color:rgb(255, 255, 255);
+    --heading-color:rgb(173, 168, 168);
+}
